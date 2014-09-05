@@ -1,0 +1,3 @@
+Hadoop SetUp Script
+=================
+
